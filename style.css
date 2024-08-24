@@ -23,6 +23,7 @@ nav a{
 }
 table{
     background-color: black;
+    text-align: center;
     
 }
 
@@ -67,4 +68,11 @@ footer a{
     border-radius: 10px ;
     padding: 8px;
     
+}
+.foto{
+    text-align: center ;
+}
+
+.foto img{
+    border-radius: 30px;
 }
